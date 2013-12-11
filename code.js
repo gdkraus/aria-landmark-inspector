@@ -12,7 +12,7 @@ var cssString = ".aria-landmark-highlight{"
 +"margin:0;"
 +"padding:0;"
 +"font-size:1em;"
-+"padding-top:1.2em;
++"padding-top:1.2em;"
 +"}";
 
 if (jQuery('style:contains('+cssString+')').length) {
